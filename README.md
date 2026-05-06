@@ -158,3 +158,8 @@ Automation   Telegram Bots · AI Agents · MCP
 <sub>Building from Shanghai · Hong Kong · Global 🌏</sub>
 
 </div>
+
+## AI resources
+
+- [yangmao.ai](https://yangmao.ai/en/) — bilingual AI free-tier database for free AI tools, API credits, no-credit-card AI services, task-based AI tools, and citation-ready link kit.
+
